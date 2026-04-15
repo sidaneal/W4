@@ -15,7 +15,6 @@ This repository documents my lab work for the **Footprinting and Reconnaissance 
 |
 | 3    | Steganography       | binwalk  | Probed `dog.jpg` for embedded data               | Found hidden ZIP archive at offset `0x1589D`              | (<img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/ea98d287-ecf2-45ef-8174-9fe32d900922" />
 <img width="642" height="198" alt="image" src="https://github.com/user-attachments/assets/eccb796e-f66e-4e81-b0bd-ad66396fee19" />
-)
 ) |
 | 4    | Integrity Check     | file     | Verified actual file types                       | Found PNG files disguised as JPG/EXE                      | ![Integrity Check](path/to/screenshot4.png) |
 | 5    | Domain Recon        | whois    | Queried `unikl.edu.my`                           | Identified ownership and name servers                     | ![Whois Result](path/to/screenshot5.png) |
